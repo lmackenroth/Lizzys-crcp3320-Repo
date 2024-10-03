@@ -13,7 +13,8 @@ Represented by tags
 
 # Code
 
-* start tag, content, then end tag: `<p>this is and html paragraph using <p> content </p > </p>`
+* start tag, content, then end tag: 
+  * `<p> this is and html paragraph using </p>`
 * self closing tags 
   * `<tagname/>`
   * `<br/>`
