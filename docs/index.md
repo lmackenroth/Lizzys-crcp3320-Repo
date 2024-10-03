@@ -6,4 +6,6 @@
 
 [GitHub Pages and Markdown](./GitHubPages+Markdown.md)
 
+[HTML](./html.md)
+
 ## Projects
