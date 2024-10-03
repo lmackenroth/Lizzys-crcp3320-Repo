@@ -18,7 +18,7 @@ Represented by tags
   * < tagname/ >
   * < br/ >
 * nested elements:
-```
+
 <p> hey
     <p> here's a nested element  </p>  
     yippee
@@ -44,7 +44,9 @@ Represented by tags
   * hr - makes a horizontal line
   * p - paragraph
   * b/ strong - makes text bold
+  * i - italic
   * here's an example:
+
 ```
 <!DOCTYPE html>
 <html>
@@ -62,7 +64,9 @@ Represented by tags
     horizontal line  
     <hr>
 
-    <p> here's the paragraph, <b> yippee </b> </p>
+    <p> here's the paragraph, <b>  and this is bold </b> </p>
+    <p><i>this is some italic text</i> </p>
+
 </body>
 
 </html>
