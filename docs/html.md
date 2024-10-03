@@ -13,17 +13,19 @@ Represented by tags
 
 # Code
 
-* start tag, content, then end tag: "<p>this is and html paragraph using '< p > content < /p >' </p>"
+* start tag, content, then end tag: `<p>this is and html paragraph using <p> content </p > </p>`
 * self closing tags 
-  * < tagname/ >
-  * < br/ >
+  * `<tagname/>`
+  * `<br/>`
 * nested elements:
 
+```html
 <p> hey
     <p> here's a nested element  </p>  
     yippee
-</p>    
-```
+</p>  
+```  
+
 
 
 * Attributes:
@@ -47,7 +49,9 @@ Represented by tags
   * i - italic
   * here's an example:
 
-```
+
+
+```html
 <!DOCTYPE html>
 <html>
 
